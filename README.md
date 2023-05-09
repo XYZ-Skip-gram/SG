@@ -1,2 +1,2 @@
-# SG
+# SG-MCTS
 
