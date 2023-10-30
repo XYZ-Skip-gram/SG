@@ -1,2 +1,2 @@
-# SG-MCTS
+# GRESA
 
